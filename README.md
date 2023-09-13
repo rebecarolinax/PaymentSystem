@@ -1,3 +1,3 @@
 # PaymentSystem
 
-Sistemas de Pagamentos (C#)
+Sistemas de Pagamentos utilizando a linguagem de programação CSharp
