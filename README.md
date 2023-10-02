@@ -1,5 +1,5 @@
 # PaymentSystem
-Um sistema completo de **de Pagamento**, utilizando boas práticas de desenvolvimento.
+Um sistema completo **de Pagamento**, utilizando boas práticas de desenvolvimento.
 
 ## Requisitos 🔐
 
