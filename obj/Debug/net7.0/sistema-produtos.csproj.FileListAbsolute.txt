@@ -1,0 +1,15 @@
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\sistema-produtos\obj\Debug\net7.0\sistema-produtos.csproj.AssemblyReference.cache
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\sistema-produtos\obj\Debug\net7.0\sistema-produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\sistema-produtos\obj\Debug\net7.0\sistema-produtos.AssemblyInfoInputs.cache
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\sistema-produtos\obj\Debug\net7.0\sistema-produtos.AssemblyInfo.cs
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\sistema-produtos\obj\Debug\net7.0\sistema-produtos.csproj.CoreCompileInputs.cache
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\sistema-produtos\bin\Debug\net7.0\sistema-produtos.exe
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\sistema-produtos\bin\Debug\net7.0\sistema-produtos.deps.json
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\sistema-produtos\bin\Debug\net7.0\sistema-produtos.runtimeconfig.json
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\sistema-produtos\bin\Debug\net7.0\sistema-produtos.dll
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\sistema-produtos\bin\Debug\net7.0\sistema-produtos.pdb
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\sistema-produtos\obj\Debug\net7.0\sistema-produtos.dll
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\sistema-produtos\obj\Debug\net7.0\refint\sistema-produtos.dll
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\sistema-produtos\obj\Debug\net7.0\sistema-produtos.pdb
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\sistema-produtos\obj\Debug\net7.0\sistema-produtos.genruntimeconfig.cache
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\sistema-produtos\obj\Debug\net7.0\ref\sistema-produtos.dll
